@@ -59,6 +59,13 @@
 			<figcaption>Slovenië</figcaption>
 		</figure>
 
+		<figure class="me">
+			<img src={profielfoto} alt="profielfoto" />
+				<figcaption class="card-content">
+					<p class="name">{data.person.name}</p>
+					<p class="bio">{data.person.bio}</p>
+				</figcaption>
+		</figure>
 
 		<figure>
 			<video
