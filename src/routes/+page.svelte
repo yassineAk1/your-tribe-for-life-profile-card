@@ -21,3 +21,16 @@
 		event.currentTarget.pause();
 	}
 </script>
+
+<main>
+
+	<section class="profile-card">
+	</section>
+</main>
+	:global(body) {
+		margin: 0;
+		background-color: #fffafa;
+		background-image: url('$lib/assets/12.png');
+		background-size: 100% 100%;
+		background-position: center;
+		background-repeat: no-repeat;
